@@ -7,4 +7,4 @@ Calculadora basica para Networking:
 4. Calcular el wildcard de una mascara
 5. Calcular la ip numero X
 
-** Haciendo este pequeño programa aprendi a programar. Tiene algunos errores. **
+** Haciendo este pequeño programa aprendi a programar. Tiene algunos errores, pero no afectan en el calculo del programa. **
